@@ -1,0 +1,4 @@
+2023-06-22T09:04:58+00:00 CRITICAL Out of memory (allocated 16777216) (tried to allocate 20480 bytes) in C:\xampp\htdocs\themusicalnote\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php on line 158
+
+2023-06-22T11:19:04+00:00 CRITICAL syntax error, unexpected '<' in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\functions.php on line 359
+

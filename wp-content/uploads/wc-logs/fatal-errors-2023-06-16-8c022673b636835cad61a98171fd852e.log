@@ -1,0 +1,50 @@
+2023-06-16T08:14:20+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 179
+
+2023-06-16T10:58:12+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::the_get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:169
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 169
+
+2023-06-16T11:28:05+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:211
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 211
+
+2023-06-16T11:34:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:211
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 211
+
+2023-06-16T11:37:06+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:211
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 211
+
+2023-06-16T11:37:33+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:211
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 211
+
+2023-06-16T11:38:02+00:00 CRITICAL Uncaught Error: Call to undefined function get_price() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:211
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 211
+

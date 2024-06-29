@@ -1,0 +1,8 @@
+2023-06-18T13:02:50+00:00 CRITICAL Uncaught Error: Call to undefined function get_peice() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:213
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 213
+

@@ -1,0 +1,100 @@
+2023-06-19T04:19:21+00:00 CRITICAL Uncaught Error: Class 'wc_get_product' not found in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:135
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 135
+
+2023-06-19T04:22:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::the_title() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:136
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 136
+
+2023-06-19T04:23:15+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_post_thumbnail() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:137
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 137
+
+2023-06-19T04:23:32+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::the_post_thumbnail() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:137
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 137
+
+2023-06-19T05:55:06+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_author() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:159
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 159
+
+2023-06-19T05:55:40+00:00 CRITICAL Uncaught Error: Call to undefined function get_author() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:159
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 159
+
+2023-06-19T06:38:46+00:00 CRITICAL syntax error, unexpected 'endif' (T_ENDIF) in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 111
+
+2023-06-19T06:50:50+00:00 CRITICAL Uncaught Error: Call to undefined function the_feild() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:80
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 80
+
+2023-06-19T09:51:19+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_the_permalink() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:166
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 166
+
+2023-06-19T09:51:33+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::the_permalink() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:166
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 166
+
+2023-06-19T09:52:02+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::the_permalink() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:166
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 166
+
+2023-06-19T09:57:03+00:00 CRITICAL Uncaught Error: Call to undefined method WC_Product_Variable::get_author() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:203
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 203
+
+2023-06-19T09:57:32+00:00 CRITICAL Uncaught Error: Call to undefined function get_author() in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php:203
+Stack trace:
+#0 C:\xampp\htdocs\themusicalnote\wp-includes\template-loader.php(106): include()
+#1 C:\xampp\htdocs\themusicalnote\wp-blog-header.php(19): require_once('C:\\xampp\\htdocs...')
+#2 C:\xampp\htdocs\themusicalnote\index.php(17): require('C:\\xampp\\htdocs...')
+#3 {main}
+  thrown in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\frontpage.php on line 203
+
+2023-06-19T15:24:40+00:00 CRITICAL syntax error, unexpected end of file in C:\xampp\htdocs\themusicalnote\wp-content\themes\musicalnote\functions.php on line 217
+
